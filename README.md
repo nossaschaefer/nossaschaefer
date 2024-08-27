@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nossa 👋
 
 <!--
 **nossaschaefer/nossaschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ... just started with Coding Bootcamps Europe for Frontend Development! :partying_face:
-😄 Pronouns: she/her
+- 🌱 I’m currently learning ... just started with Coding Bootcamps Europe for Frontend Development! :partying_face:
+- 😄 Pronouns: she/her

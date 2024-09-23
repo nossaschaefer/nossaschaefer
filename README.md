@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ... just started with Coding Bootcamps Europe for Frontend Development! :partying_face:
+- 🌱 I’m currently learning ... just started with Frauenloop and Coding Bootcamps Europe for Frontend Development! :partying_face:
 - 😄 Pronouns: she/her

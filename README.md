@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I finished the Coding Bootcamps Europe program for Frontend Development. :partying_face:
-- 🌱 I’m currently learning React with the fantastic Frauenloop program (www.frauenloop.org).
+- 🌱 I’m currently learning React and Next with the fantastic Frauenloop program (www.frauenloop.org).
 - 👯 I’m happy to collaborate on projects supporting social and environmental causes!
 - 😄 Pronouns: she/her
